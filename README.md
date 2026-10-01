@@ -3,7 +3,7 @@
 # Привет, я Дарья Кислая 👋
 ### AI Solutions Specialist | Full-Stack & Desktop Developer | EdTech Lead
 
-[![Telegram](https://img.shields.io/badge/Telegram-Contact_Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yonawie)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact_Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/isourr)
 [![Email](https://img.shields.io/badge/Email-darya.kislaya.05%40bk.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darya.kislaya.05@bk.ru)
 [![Location](https://img.shields.io/badge/Location-Vladivostok%20%2F%20Remote-blue?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
